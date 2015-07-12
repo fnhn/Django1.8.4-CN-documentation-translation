@@ -35,8 +35,8 @@
 ##译者记录和翻译进度
 
 
-- 目录（[Tuluobo](http://https://github.com/Tuluobo)）
-- 第一章 Djang文档（[Tuluobo](http://https://github.com/Tuluobo)）
+- 目录（[Tuluobo](https://github.com/Tuluobo)）
+- 第一章 Djang文档（[Tuluobo](https://github.com/Tuluobo)）
 - 第二章
     + 2.1 Django一瞥
 	+ 2.2 快速安装指南
@@ -51,7 +51,7 @@
 	+ 2.11 编写你的第一个Django补丁
 - 第三章 Django使用
 
-	+ 3.1 如何安装Django
+	+ 3.1 如何安装Django（[luodichen](http://github.com/luodichen)）
 	+ 3.2 模型和数据库
 	+ 3.3 处理HTTP请求
 	+ 3.4 使用表单
