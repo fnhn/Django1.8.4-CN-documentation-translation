@@ -38,17 +38,17 @@
 - 目录（[Tuluobo](https://github.com/Tuluobo)）
 - 第一章 Djang文档（[Tuluobo](https://github.com/Tuluobo)）
 - 第二章
-    + 2.1 Django一瞥
-	+ 2.2 快速安装指南
-	+ 2.3 编写自己的第一个Django App（1）
-	+ 2.4 编写自己的第一个Django App（2）
-	+ 2.5 编写自己的第一个Django App（3）
-	+ 2.6 编写自己的第一个Django App（4）
-	+ 2.7 编写自己的第一个Django App（5）
-	+ 2.8 编写自己的第一个Django App（6）
-	+ 2.9 高级教程：如何编写可重用的Apps
-	+ 2.10 延伸阅读
-	+ 2.11 编写你的第一个Django补丁
+    + 2.1 Django一瞥（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.2 快速安装指南（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.3 编写自己的第一个Django App（1）（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.4 编写自己的第一个Django App（2）（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.5 编写自己的第一个Django App（3）（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.6 编写自己的第一个Django App（4）（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.7 编写自己的第一个Django App（5）（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.8 编写自己的第一个Django App（6）（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.9 高级教程：如何编写可重用的Apps（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.10 延伸阅读（[Tuluobo](https://github.com/Tuluobo)）
+	+ 2.11 编写你的第一个Django补丁（[Tuluobo](https://github.com/Tuluobo)）
 - 第三章 Django使用
 
 	+ 3.1 如何安装Django（[luodichen](http://github.com/luodichen)）
