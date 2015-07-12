@@ -52,8 +52,8 @@
 - 第三章 Django使用
 
 	+ 3.1 如何安装Django（[luodichen](http://github.com/luodichen)）
-	+ 3.2 模型和数据库
-	+ 3.3 处理HTTP请求
+	+ 3.2 模型和数据库（[luodichen](http://github.com/luodichen)）
+	+ 3.3 处理HTTP请求（[luodichen](http://github.com/luodichen)）
 	+ 3.4 使用表单
 	+ 3.5 模板
 	+ 3.6 基类视图
