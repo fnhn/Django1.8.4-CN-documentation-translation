@@ -38,7 +38,7 @@
 
 - 目录（[Tuluobo](https://github.com/Tuluobo)）
 - 第一章 Djang文档（[Tuluobo](https://github.com/Tuluobo)）
-- 第二章
+- 第二章 开始
     + 2.1 Django一瞥（[Tuluobo](https://github.com/Tuluobo)）
 	+ 2.2 快速安装指南（[Tuluobo](https://github.com/Tuluobo)）
 	+ 2.3 编写自己的第一个Django App（1）（[Tuluobo](https://github.com/Tuluobo)）
